@@ -1,0 +1,16 @@
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\bin\Debug\net8.0-windows\UI GE.exe
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\bin\Debug\net8.0-windows\UI GE.deps.json
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\bin\Debug\net8.0-windows\UI GE.runtimeconfig.json
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\bin\Debug\net8.0-windows\UI GE.dll
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\bin\Debug\net8.0-windows\UI GE.pdb
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI_GE.Form1.resources
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.csproj.GenerateResource.cache
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.GeneratedMSBuildEditorConfig.editorconfig
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.AssemblyInfoInputs.cache
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.AssemblyInfo.cs
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.csproj.CoreCompileInputs.cache
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.dll
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\refint\UI GE.dll
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.pdb
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\UI GE.genruntimeconfig.cache
+C:\RIYOMA\FILES\VS PROJECTS\ALI\C#\UI GE\obj\Debug\net8.0-windows\ref\UI GE.dll
